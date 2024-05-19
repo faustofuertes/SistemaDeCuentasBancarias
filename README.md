@@ -1,2 +1,5 @@
 # SistemaDeCuentasBancarias
 Sistema de manejo de cuentas bancarias en C#. Orientado tanto para USUARIOS y ADMINISTRADORES.
+
+Algunas de las opciones disponibles para USUARIOS: CREAR CUENTA - INICIAR SESION - TRANSFERIR DINERO A OTRAS CUENTAS EXISTENTES - RETIRAR/DEPOSITAR DINERO - VER ULTIMOS MOVIMIENTOS, etc.
+Algunas de las opciones disponibles para ADMINISTRADORES: ALTA, BAJA, MODIFICACION y DISTINTOS TIPOS DE LISTADO TANTO PARA EMPLEADOS COMO PARA USUARIOS.
